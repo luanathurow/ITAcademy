@@ -2,7 +2,7 @@
 
 namespace Laboratorio1
 {
-    class Program
+    class TiposVariaveis
     {
         static void Main(string[] args)
         {
